@@ -1,4 +1,4 @@
-![Providence's Logo]()
+![Providence's Logo](https://github.com/providence-replay/.github/assets/transparent-logo.png)
 ## Description
 Providence is an open-source, pixel-perfect session replay tool leveraging next-generation AI tools.
 
