@@ -1,8 +1,8 @@
 ![Providence's Logo](https://github.com/providence-replay/.github/blob/main/assets/transparent-logo.png)
 ## Description
-Providence is an open-source, pixel-perfect session replay tool leveraging next-generation AI tools.
+Providence is an open-source session replay tool leveraging next-generation AI tools.
 
-![Animated gif of Providence's frontend dashboard]()
+![Animated gif of Providence's frontend dashboard](https://github.com/providence-replay/.github/blob/a0c309651274e56165b10b760265c44133a409ed/assets/providence-dashboard.gif)
 
 ## Getting Started
 - **Providence Case Study** - Take a deep dive into Providence by reading our technical case study [here](https://example.com).
